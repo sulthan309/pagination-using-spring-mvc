@@ -1,2 +1,3 @@
 # pagination-using-spring-mvc
-Implementing Pagination using Spring MVC and Hibernate
+Implementing basic Pagination using Spring MVC and Hibernate
+I have implemented Spring web application without using XML Config files. All the Conigurations in this project is Java configuration.
